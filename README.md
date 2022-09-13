@@ -8,3 +8,4 @@ Most, if not all of these wallpapers come from these sources:
  - [github.com/linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers/tree/master/wallpapers)
  - [github.com/kitsunebishi/Wallpapers](https://github.com/kitsunebishi/Wallpapers)
  - [github.com/antoniosarosi/Wallpapers](https://github.com/antoniosarosi/Wallpapers)
+ - [github.com/FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers)
